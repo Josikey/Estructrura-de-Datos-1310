@@ -1,0 +1,6 @@
+12226,15605, -Enero a Febrero	
+15605,19602, -Febrero a Marzo
+19602,19452, -Marzo a Abril
+19452,21805, -Abril a Mayo	
+21805,17344, -Mayo a Junio	                      
+
